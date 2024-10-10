@@ -53,6 +53,11 @@ class Program {
 
 
             //Logika pro výpis řady TO-DO
+            int current = first;
+            while(current <= last) {        //jestli jsme nepřetekli
+                Console.WriteLine(current);
+                current = current + step;
+            }             
 
             // Opakování programu
             Console.WriteLine("Pro opakování programu stiskněte klávesu a");
