@@ -1,0 +1,14 @@
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program001-vypis-rady\bin\Debug\net7.0\program001-vypis-rady.exe
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program001-vypis-rady\bin\Debug\net7.0\program001-vypis-rady.deps.json
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program001-vypis-rady\bin\Debug\net7.0\program001-vypis-rady.runtimeconfig.json
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program001-vypis-rady\bin\Debug\net7.0\program001-vypis-rady.dll
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program001-vypis-rady\bin\Debug\net7.0\program001-vypis-rady.pdb
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program001-vypis-rady\obj\Debug\net7.0\program001-vypis-rady.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program001-vypis-rady\obj\Debug\net7.0\program001-vypis-rady.AssemblyInfoInputs.cache
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program001-vypis-rady\obj\Debug\net7.0\program001-vypis-rady.AssemblyInfo.cs
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program001-vypis-rady\obj\Debug\net7.0\program001-vypis-rady.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program001-vypis-rady\obj\Debug\net7.0\program001-vypis-rady.dll
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program001-vypis-rady\obj\Debug\net7.0\refint\program001-vypis-rady.dll
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program001-vypis-rady\obj\Debug\net7.0\program001-vypis-rady.pdb
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program001-vypis-rady\obj\Debug\net7.0\program001-vypis-rady.genruntimeconfig.cache
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program001-vypis-rady\obj\Debug\net7.0\ref\program001-vypis-rady.dll
