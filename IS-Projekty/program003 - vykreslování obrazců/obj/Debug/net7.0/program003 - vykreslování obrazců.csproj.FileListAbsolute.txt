@@ -1,0 +1,14 @@
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program003 - vykreslování obrazců\bin\Debug\net7.0\program003 - vykreslování obrazců.exe
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program003 - vykreslování obrazců\bin\Debug\net7.0\program003 - vykreslování obrazců.deps.json
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program003 - vykreslování obrazců\bin\Debug\net7.0\program003 - vykreslování obrazců.runtimeconfig.json
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program003 - vykreslování obrazců\bin\Debug\net7.0\program003 - vykreslování obrazců.dll
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program003 - vykreslování obrazců\bin\Debug\net7.0\program003 - vykreslování obrazců.pdb
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program003 - vykreslování obrazců\obj\Debug\net7.0\program003 - vykreslování obrazců.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program003 - vykreslování obrazců\obj\Debug\net7.0\program003 - vykreslování obrazců.AssemblyInfoInputs.cache
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program003 - vykreslování obrazců\obj\Debug\net7.0\program003 - vykreslování obrazců.AssemblyInfo.cs
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program003 - vykreslování obrazců\obj\Debug\net7.0\program003 - vykreslování obrazců.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program003 - vykreslování obrazců\obj\Debug\net7.0\program003 - vykreslování obrazců.dll
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program003 - vykreslování obrazců\obj\Debug\net7.0\refint\program003 - vykreslování obrazců.dll
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program003 - vykreslování obrazců\obj\Debug\net7.0\program003 - vykreslování obrazců.pdb
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program003 - vykreslování obrazců\obj\Debug\net7.0\program003 - vykreslování obrazců.genruntimeconfig.cache
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program003 - vykreslování obrazců\obj\Debug\net7.0\ref\program003 - vykreslování obrazců.dll
