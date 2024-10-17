@@ -9,7 +9,7 @@
             Console.WriteLine("****************************************");
             Console.WriteLine("*************** Obdelník ***************");
             Console.WriteLine("****************************************");
-            Console.WriteLine("*********** Karolína Hájková ***********");
+            Console.WriteLine("*********** Karolína Hájkova ***********");
             Console.WriteLine("****************************************\n\n");
             Console.WriteLine();
 
