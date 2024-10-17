@@ -1,5 +1,6 @@
 ﻿//chci aby se program opakoval po stisku klávesy "a"
 using System.ComponentModel;
+using System.Reflection;
 
 string again = "a";             // operátor = je přiřazení hodnoty
         while(again == "a") {          // == je porovnávání hodnot
@@ -24,8 +25,10 @@ string again = "a";             // operátor = je přiřazení hodnoty
             Console.WriteLine("========================================\n\n");
 
             int suma = 0;
+            int multi = 1;
             int numberBackup = number;
             int digit;
+        
 
             // pokud je číslo záporné, tak mínus odstraníme
             if(number < 0) {
@@ -37,11 +40,16 @@ string again = "a";             // operátor = je přiřazení hodnoty
                 number = (number - digit) /10;
                 Console.WriteLine("Digit = {0}", digit);
                 suma = suma + digit;
+                multi = multi * digit;
             }
+
             Console.WriteLine("Digit = {0}", number);
             suma = suma + number;
+            multi = multi + number; 
 
             Console.WriteLine("\n\nSoučet cifer čísla {0} je {1}", numberBackup, suma);
+            Console.WriteLine("Součin cifer čísla {0} je {1}", numberBackup, multi);
+
 
             // Opakování programu
             Console.WriteLine("Pro opakování programu stiskněte klávesu a");
