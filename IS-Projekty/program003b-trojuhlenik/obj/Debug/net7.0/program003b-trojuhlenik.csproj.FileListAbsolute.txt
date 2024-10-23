@@ -1,0 +1,14 @@
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program003b-trojuhlenik\bin\Debug\net7.0\program003b-trojuhlenik.exe
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program003b-trojuhlenik\bin\Debug\net7.0\program003b-trojuhlenik.deps.json
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program003b-trojuhlenik\bin\Debug\net7.0\program003b-trojuhlenik.runtimeconfig.json
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program003b-trojuhlenik\bin\Debug\net7.0\program003b-trojuhlenik.dll
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program003b-trojuhlenik\bin\Debug\net7.0\program003b-trojuhlenik.pdb
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program003b-trojuhlenik\obj\Debug\net7.0\program003b-trojuhlenik.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program003b-trojuhlenik\obj\Debug\net7.0\program003b-trojuhlenik.AssemblyInfoInputs.cache
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program003b-trojuhlenik\obj\Debug\net7.0\program003b-trojuhlenik.AssemblyInfo.cs
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program003b-trojuhlenik\obj\Debug\net7.0\program003b-trojuhlenik.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program003b-trojuhlenik\obj\Debug\net7.0\program003b-trojuhlenik.dll
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program003b-trojuhlenik\obj\Debug\net7.0\refint\program003b-trojuhlenik.dll
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program003b-trojuhlenik\obj\Debug\net7.0\program003b-trojuhlenik.pdb
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program003b-trojuhlenik\obj\Debug\net7.0\program003b-trojuhlenik.genruntimeconfig.cache
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program003b-trojuhlenik\obj\Debug\net7.0\ref\program003b-trojuhlenik.dll
