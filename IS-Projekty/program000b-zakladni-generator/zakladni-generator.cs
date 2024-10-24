@@ -1,4 +1,4 @@
-﻿class Program {
+class Program {
 
     static void Main() {
         
@@ -43,7 +43,7 @@
             // příprava pro generování náhodných čísel
             Random randomNumber = new Random();
 
-            Console.WriteLine("\n\nNáhodná čísla: ");
+            Console.WriteLine("Náhodná čísla: ");
 
             for(int i=0; i<n; i++) {
                 myArray[i] = randomNumber.Next(dm, hm);
