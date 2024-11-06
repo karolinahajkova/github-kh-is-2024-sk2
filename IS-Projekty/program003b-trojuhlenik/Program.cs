@@ -14,7 +14,7 @@
             Console.WriteLine();
 
             // Vstup od uživatele TO-DO - správná verze
-            Console.WriteLine("Zadejte výšku obrazce (celé číslo): ");
+            Console.Write("Zadejte výšku obrazce (celé číslo): ");
             int height;
             while(!int.TryParse(Console.ReadLine(), out height)) {
                 Console.Write("Nezadali jste celé číslo. Zadejte znovu výšku obrazce (celé číslo): ");
@@ -34,7 +34,7 @@
             for(int i=1; i<= height; i++){
                 for(int j=1; j<= i; j++) {
                     Console.Write("* ");
-                    //System.Threading.Thread.Sleep(System.TimeSpan.FromMilliseconds(100));
+                    System.Threading.Thread.Sleep(System.TimeSpan.FromMilliseconds(100));
                 }
                 Console.WriteLine();
             }
