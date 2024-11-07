@@ -1,0 +1,14 @@
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program005 - max-min\bin\Debug\net7.0\program005 - max-min.exe
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program005 - max-min\bin\Debug\net7.0\program005 - max-min.deps.json
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program005 - max-min\bin\Debug\net7.0\program005 - max-min.runtimeconfig.json
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program005 - max-min\bin\Debug\net7.0\program005 - max-min.dll
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program005 - max-min\bin\Debug\net7.0\program005 - max-min.pdb
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program005 - max-min\obj\Debug\net7.0\program005 - max-min.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program005 - max-min\obj\Debug\net7.0\program005 - max-min.AssemblyInfoInputs.cache
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program005 - max-min\obj\Debug\net7.0\program005 - max-min.AssemblyInfo.cs
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program005 - max-min\obj\Debug\net7.0\program005 - max-min.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program005 - max-min\obj\Debug\net7.0\program005 - max-min.dll
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program005 - max-min\obj\Debug\net7.0\refint\program005 - max-min.dll
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program005 - max-min\obj\Debug\net7.0\program005 - max-min.pdb
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program005 - max-min\obj\Debug\net7.0\program005 - max-min.genruntimeconfig.cache
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program005 - max-min\obj\Debug\net7.0\ref\program005 - max-min.dll
