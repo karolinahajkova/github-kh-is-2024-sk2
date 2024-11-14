@@ -1,11 +1,13 @@
-﻿string again = "a";             // operátor = je přiřazení hodnoty
+﻿using System.Diagnostics;
+
+string again = "a";             // operátor = je přiřazení hodnoty
         while(again == "a") {          // == je porovnávání hodnot
             Console.Clear();
             Console.WriteLine("*************************************");
             Console.WriteLine("************ Bubble sort ************");
             Console.WriteLine("*************************************");
             Console.WriteLine("********* Karolína Hájková **********");
-            Console.WriteLine("*************************************n\n");
+            Console.WriteLine("*************************************\n\n");
             Console.WriteLine();
 
             // Vstup od uživatele TO-DO - správná verze
@@ -44,8 +46,44 @@
                 myArray[i] = randomNumber.Next(dm, hm);
                 Console.Write("{0}; ", myArray[i]);
             }
-            
 
+            Stopwatch myStopwatch = new Stopwatch();
+
+            myStopwatch.Start();
+
+            int numberCompare = 0;
+            int numberChange = 0;
+
+            numberCompare++;
+            numberChange++;
+
+            for(int i=0; i<n-1; i++) {
+                for(int j=0; j<n-i-1; j++) {
+                    numberCompare++;
+                    if(myArray[j] < myArray[j+1]) {
+                        int tmp = myArray[j];               //na dalším řádku se mi vyskytne ten prvek
+                        myArray[j] = myArray[j+1];
+                        myArray[j+1] = tmp;
+                        numberChange++;
+                    }
+                }
+            }
+            myStopwatch.Stop();
+
+            Console.WriteLine("\n\nSeřazení pole podle BUBBLE SORTu: ");
+            for(int i=0; i<n; i++) {
+                Console.Write("{0}; ", myArray[i]);
+            }
+            
+            Console.ForegroundColor = ConsoleColor.Magenta;
+            Console.BackgroundColor = ConsoleColor.Black;
+            Console.WriteLine("\n\nČas potřebný na seřazení pole algoritmem BUBBLE SORT: {0}", myStopwatch.Elapsed);
+
+            Console.WriteLine("\nPočet porovnání: {0}", numberCompare);
+            Console.WriteLine("Počet výměn: {0}", numberChange);
+
+
+            Console.ResetColor();
             // Opakování programu
             Console.WriteLine("\n\nPro opakování programu stiskněte klávesu a");
             again = Console.ReadLine();
