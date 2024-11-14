@@ -1,0 +1,14 @@
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program009-reverze-pole\bin\Debug\net7.0\program009-reverze-pole.exe
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program009-reverze-pole\bin\Debug\net7.0\program009-reverze-pole.deps.json
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program009-reverze-pole\bin\Debug\net7.0\program009-reverze-pole.runtimeconfig.json
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program009-reverze-pole\bin\Debug\net7.0\program009-reverze-pole.dll
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program009-reverze-pole\bin\Debug\net7.0\program009-reverze-pole.pdb
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program009-reverze-pole\obj\Debug\net7.0\program009-reverze-pole.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program009-reverze-pole\obj\Debug\net7.0\program009-reverze-pole.AssemblyInfoInputs.cache
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program009-reverze-pole\obj\Debug\net7.0\program009-reverze-pole.AssemblyInfo.cs
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program009-reverze-pole\obj\Debug\net7.0\program009-reverze-pole.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program009-reverze-pole\obj\Debug\net7.0\program009-reverze-pole.dll
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program009-reverze-pole\obj\Debug\net7.0\refint\program009-reverze-pole.dll
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program009-reverze-pole\obj\Debug\net7.0\program009-reverze-pole.pdb
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program009-reverze-pole\obj\Debug\net7.0\program009-reverze-pole.genruntimeconfig.cache
+C:\aaa\IS-2024\github-kh-is-2024-sk2\IS-Projekty\program009-reverze-pole\obj\Debug\net7.0\ref\program009-reverze-pole.dll

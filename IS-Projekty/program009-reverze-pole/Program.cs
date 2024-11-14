@@ -1,8 +1,4 @@
-﻿class Program {
-
-    static void Main() {
-        
-        //chci aby se program opakoval po stisku klávesy "a"
+﻿        //chci aby se program opakoval po stisku klávesy "a"
         string again = "a";             // operátor = je přiřazení hodnoty
         while(again == "a") {          // == je porovnávání hodnot
             Console.Clear();
@@ -51,13 +47,21 @@
             }
             
 
+            for(int i=0; i< n/2; i++) {
+                int tmp = myArray[i];               // tmp je pomocná proměnná
+                myArray[i] = myArray[n-i-1];
+                myArray[n-i-1] = tmp;
+            }
+
+            Console.WriteLine("\n\nPole po reverzi: ");
+            for(int i=0; i<n; i++) {
+                Console.Write("{0}; ", myArray[i]);
+                }
+            
+
             // Opakování programu
             Console.WriteLine("\n\nPro opakování programu stiskněte klávesu a");
             again = Console.ReadLine();
         }
-
-    }
-
-}
 
 
