@@ -47,8 +47,6 @@ string again = "a";             // operátor = je přiřazení hodnoty
                 Console.Write("{0}; ", myArray[i]);
             }
 
-            Console.WriteLine("\nPole po seřazení algoritmem Selection Sort: ");
-
             for(int i = 0; i < n - 1; i++)
             {
                 int maxIndex = i;
@@ -60,6 +58,8 @@ string again = "a";             // operátor = je přiřazení hodnoty
                 myArray[i] = myArray[maxIndex];
                 myArray[maxIndex] = tmp;
             }
+            
+            Console.WriteLine("\nPole po seřazení algoritmem Selection Sort: ");
             for(int i=0;i<n;i++)
             {
             Console.Write("{0}; ",myArray[i]);
