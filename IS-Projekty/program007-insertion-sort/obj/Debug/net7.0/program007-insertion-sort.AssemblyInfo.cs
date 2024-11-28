@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("program007-insertion-sort")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0290ddebd82529b72fc93f61d9f9d97bff7a8df9")]
 [assembly: System.Reflection.AssemblyProductAttribute("program007-insertion-sort")]
 [assembly: System.Reflection.AssemblyTitleAttribute("program007-insertion-sort")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
